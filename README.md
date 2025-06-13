@@ -1,1 +1,1 @@
-url
+url = https://internwebapp.netlify.app/
