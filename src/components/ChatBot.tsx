@@ -21,7 +21,7 @@ const ChatBot = () => {
   const { toast } = useToast();
 
   useEffect(() => {
-    const geminiApiKey = "AIzaSyDiDmKnJVxG8SmlEmBCCXrFc_rReRPhl7E";
+    const geminiApiKey = "AIzaSyDagsVazhktX0miLc90N9mSqoaqqpR6bu4";
     if (geminiApiKey) {
       setApiKey(geminiApiKey);
       setHasSetApiKey(true);
